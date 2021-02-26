@@ -1,7 +1,8 @@
 # VScodeSetup
-
+```
 code --list-extensions | % { "code --install-extension $_" }
-
+```
+```
 code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension ecmel.vscode-html-css
@@ -26,3 +27,4 @@ code --install-extension ritwickdey.LiveServer
 code --install-extension syler.sass-indented
 code --install-extension WallabyJs.quokka-vscode
 code --install-extension aaron-bond.better-comments
+```
