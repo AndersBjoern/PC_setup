@@ -35,6 +35,9 @@ Unity
 VLC
 WinRar
 Zoom
+Postman
+Spotify
+Typora
 ```
 # VScodeSetup
 ```
