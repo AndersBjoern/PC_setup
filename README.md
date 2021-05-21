@@ -14,7 +14,8 @@ Java 8 Update 271                                                               
 ExpressVPN                                                                       7.7.12.4
 Adobe Acrobat Reader DC - Dansk                                                  21.001.20140
 Node.js                                                                          12.18.4
-Illustrator, InDesign, Photoshop
+Illustrator, InDesign, Photoshop, XD
+Figma / Sketch
 Android Studio
 Arduino
 Blender
@@ -38,6 +39,7 @@ Zoom
 Postman
 Spotify
 Typora
+Firma
 ```
 # VScodeSetup
 ```
