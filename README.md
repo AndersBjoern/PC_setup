@@ -40,6 +40,12 @@ Postman
 Spotify
 Typora
 Firma
+
+https://github.com/Flow-Launcher/Flow.Launcher
+https://support.microsoft.com/en-us/windows/clipboard-in-windows-c436501e-985d-1c8d-97ea-fe46ddf338c6
+https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S?hl=en-us&gl=US
+https://everything.en.softonic.com/
+
 ```
 # VScodeSetup
 ```
